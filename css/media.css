@@ -1,0 +1,17 @@
+@media (max-width: 900px) {
+    header {
+        background-color: lightpink;
+    }
+}
+
+@media (max-width: 600px) {
+    .fa-bars {
+        display: block;
+    }
+    nav {
+        display: none;
+    }
+    .textwrapper h1 {
+        font-size: 55px;
+    }
+}
